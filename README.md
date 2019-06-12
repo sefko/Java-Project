@@ -1,1 +1,1 @@
-# OOP-Project
+# OOP-Project: Bookmarks manager
