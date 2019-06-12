@@ -1,1 +1,1 @@
-# OOP-Project: Bookmarks manager
+# Java-Project: Bookmarks manager
